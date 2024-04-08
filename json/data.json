@@ -1,0 +1,208 @@
+[
+    {
+      "word": "Algorithm",
+      "definition": "A process or set of rules followed in calculations or problem-solving operations, often by a computer."
+    },
+    {
+      "word": "Browser",
+      "definition": "A software application used to access and navigate the internet."
+    },
+    {
+      "word": "Cloud",
+      "definition": "Networked computer servers where information and software applications are stored and accessed remotely."
+    },
+    {
+      "word": "Database",
+      "definition": "An organized collection of data, generally stored and accessed electronically from a computer system."
+    },
+    {
+      "word": "Encryption",
+      "definition": "The method by which information is converted into secret code that hides the information's true meaning."
+    },
+    {
+      "word": "Firewall",
+      "definition": "A network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies."
+    },
+    {
+      "word": "Gigabyte",
+      "definition": "A unit of information equal to one billion bytes or 2^30 bytes, depending on context."
+    },
+    {
+      "word": "Hardware",
+      "definition": "The physical components of a computer system."
+    },
+    {
+      "word": "Internet",
+      "definition": "A global network of interconnected computers that communicate through standardized protocols."
+    },
+    {
+      "word": "Java",
+      "definition": "A high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible."
+    },
+    {
+      "word": "Kernel",
+      "definition": "The core of a computer's operating system, with complete control over everything in the system."
+    },
+    {
+      "word": "Linux",
+      "definition": "An open-source operating system modelled on UNIX."
+    },
+    {
+      "word": "Malware",
+      "definition": "Software designed to disrupt, damage, or gain unauthorized access to a computer system."
+    },
+    {
+      "word": "Network",
+      "definition": "A group of two or more computer systems linked together."
+    },
+    {
+      "word": "OpenGL",
+      "definition": "A cross-language, cross-platform application programming interface for rendering 2D and 3D vector graphics."
+    },
+    {
+      "word": "Protocol",
+      "definition": "A set of rules governing the exchange or transmission of data between devices."
+    },
+    {
+      "word": "Query",
+      "definition": "A request for information from a database."
+    },
+    {
+      "word": "Router",
+      "definition": "A device that forwards data packets along networks."
+    },
+    {
+      "word": "Software",
+      "definition": "The programs and other operating information used by a computer."
+    },
+    {
+      "word": "Token",
+      "definition": "A piece of data that symbolically represents a larger, more complex piece of information."
+    },
+    {
+      "word": "URL",
+      "definition": "The address of a World Wide Web page."
+    },
+    {
+      "word": "Virtual",
+      "definition": "Not physically existing as such but made by software to appear to do so."
+    },
+    {
+      "word": "Web",
+      "definition": "The complex system of interconnected elements that enables access to the Internet."
+    },
+    {
+      "word": "XML",
+      "definition": "A metalanguage which allows users to define their own customized markup languages, especially in order to display documents on the Internet."
+    },
+    {
+      "word": "Zip",
+      "definition": "A file format used for data compression and archiving."
+    },
+
+    {
+      "word": "Aurora",
+      "definition": "A natural electrical phenomenon characterized by the appearance of streamers of reddish or greenish light in the sky, usually near the northern or southern magnetic pole."
+    },
+    {
+      "word": "Bliss",
+      "definition": "Perfect happiness; great joy."
+    },
+    {
+      "word": "Canyon",
+      "definition": "A deep gorge, typically one with a river flowing through it."
+    },
+    {
+      "word": "Dew",
+      "definition": "Tiny drops of water that form on cool surfaces at night, when atmospheric vapor condenses."
+    },
+    {
+      "word": "Echo",
+      "definition": "A sound or series of sounds caused by the reflection of sound waves from a surface back to the listener."
+    },
+    {
+      "word": "Flora",
+      "definition": "The plants of a particular region, habitat, or geological period."
+    },
+    {
+      "word": "Glacier",
+      "definition": "A slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles."
+    },
+    {
+      "word": "Horizon",
+      "definition": "The line at which the earth's surface and the sky appear to meet."
+    },
+    {
+      "word": "Igneous",
+      "definition": "Having solidified from lava or magma."
+    },
+    {
+      "word": "Jovial",
+      "definition": "Cheerful and friendly."
+    },
+    {
+      "word": "Kaleidoscope",
+      "definition": "A toy consisting of a tube containing mirrors and pieces of colored glass or paper, whose reflections produce changing patterns that are visible through an eyehole when the tube is rotated."
+    },
+    {
+      "word": "Lagoon",
+      "definition": "A stretch of salt water separated from the sea by a low sandbank or coral reef."
+    },
+    {
+      "word": "Meadow",
+      "definition": "A piece of grassland, especially one used for hay."
+    },
+    {
+      "word": "Nebula",
+      "definition": "A cloud of gas and dust in outer space, visible in the night sky either as an indistinct bright patch or as a dark silhouette against other luminous matter."
+    },
+    {
+      "word": "Oasis",
+      "definition": "A fertile spot in a desert where water is found."
+    },
+    {
+      "word": "Prairie",
+      "definition": "A large open area of grassland, especially in the Mississippi River valley."
+    },
+    {
+      "word": "Quartz",
+      "definition": "A hard white or colorless mineral consisting of silicon dioxide, found widely in igneous, metamorphic, and sedimentary rocks."
+    },
+    {
+      "word": "Ripple",
+      "definition": "A small wave or series of waves on the surface of water, especially as caused by an object dropping into it or a slight breeze."
+    },
+    {
+      "word": "Savanna",
+      "definition": "A grassy plain in tropical and subtropical regions, with few trees."
+    },
+    {
+      "word": "Tundra",
+      "definition": "A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen."
+    },
+    {
+      "word": "Umbra",
+      "definition": "The fully shaded inner region of a shadow cast by an opaque object, especially the area on the earth or moon experiencing the total phase of an eclipse."
+    },
+    {
+      "word": "Vortex",
+      "definition": "A mass of whirling fluid or air, especially a whirlpool or whirlwind."
+    },
+    {
+      "word": "Wavelength",
+      "definition": "The distance between successive crests of a wave, especially points in a sound wave or electromagnetic wave."
+    },
+    {
+      "word": "Xenon",
+      "definition": "The chemical element of atomic number 54, a rare, odorless, noble gas under standard conditions, used in some fluorescent lamps and photographic flash units."
+    },
+    {
+      "word": "Yield",
+      "definition": "Produce or provide (a natural, agricultural, or industrial product)."
+    },
+    {
+      "word": "Zenith",
+      "definition": "The time at which something is most powerful or successful."
+    }
+]
+  
